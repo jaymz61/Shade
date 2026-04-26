@@ -83,6 +83,6 @@
 		"www.google.com",
 		"safebrowsing.google.com"
 	],
-	"youtube_via_relay": false,
+	"youtube_via_relay": true,
 	"hosts": {}
 }
